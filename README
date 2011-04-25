@@ -1,0 +1,15 @@
+Sharon Brewton
+4/19/11
+CSc 2310
+Umar Arshad
+Project 2--Clock
+
+In this program, we prompt the user to enter six commands. The commands are a, c, q, r, s, 
+and t. Each command preforms different task to program. Command "a" increase the initial 
+second by one. Command c lets the user set the current time. Command "q" will exit the 
+program. Command "r" resets the time to its initial time 00:00:00. Command "s" lets the 
+user set the time. Command "t" switches the from 24-hour clock to 12-hour clock, or vice-
+versa. You are first prompt to enter a command, depending on which command you select, it 
+will preform that task and continue asking you to input a command until the command q is 
+inputed into the program, which will exit your program. The initial time for the program 
+00:00:00. The program will accept your input either uppercase or lowercase. 
